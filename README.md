@@ -2,4 +2,4 @@
 
 ### Parallax-Scroll using HTML , CSS
 
-link -> 
+link -> https://dev-tanay.github.io/Parallax-Scroll/
